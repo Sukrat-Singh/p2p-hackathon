@@ -38,6 +38,8 @@ Given anonymized financial data of companies over multiple years, the goal is to
 
 ## ⚙️ Features and Methods
 
+[Read full report](https://github.com/Sukrat-Singh/p2p-hackathon/blob/main/report_p2p.pdf)
+
 ### 🧹 **1. Data Preprocessing**
 - Handled missing values and outliers (1st–99th percentile clipping)
 - Log-transformation on skewed ratios
