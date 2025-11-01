@@ -4,7 +4,7 @@ This repository contains the complete workflow for predicting corporate bankrupt
 Developed for a machine learning hackathon, organized by **Department of Management Studies (DMS), Indian Institutes of Technology (IIT) (ISM), Dhanbad**. This project focuses on maximizing **Macro-F1 Score** (primary metric) and **Recall on the “failed” class** (tie-breaker metric).
 
 #### About the hackathon: 
- - Name: *Predict2Protect*
+ - Name: [*Predict2Protect*](https://unstop.com/college-fests/plutus-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-409223)
  - Predict2Protect is a week-long data-driven hackathon under PLUTUS’25, where participants build machine learning models to predict corporate bankruptcy using real-world financial datasets.
  - The competition aims to evaluate end-to-end data science skills — from data preprocessing and feature engineering to model optimization and business interpretation.
 ---
